@@ -1,27 +1,12 @@
 {
   "expo": {
-    "name": "champ",
-    "slug": "champ",
+    "name": "Bellic",
+    "slug": "Bellic",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/goku.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+    "extra": {
+      "eas": {
+        "projectId": "c8b97cd5-f9af-47a1-9cc0-a201ab097a4c"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
